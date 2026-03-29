@@ -1,8 +1,8 @@
 # 💫 About Me:
-**Versatile Developer & Data Enthusiast** A highly motivated Full Stack Developer skilled in modern programming languages including C, C++, Java, and Python.
+**Versatile Developer & Data Enthusiast** A highly motivated **Full Stack Developer** skilled in modern programming languages including C, C++, Java, and Python.
 
 * 🧠 I possess a strong foundation in **Data Structures and Algorithms (DSA)**, focusing on problem-solving and robust logic building.
-* 📊 I have expertise in the data domain, specializing in **Machine Learning (ML)**, Data Analysis using Python libraries, and database management with SQL and MongoDB. 
+* 📊 I have expertise in the data domain, specializing in **Machine Learning (ML)**, Data Analysis using Python libraries, and database management with SQL and MongoDB.
 * 🚀 Committed to building efficient, scalable applications and extracting valuable insights from data.
 
 ---
@@ -29,25 +29,16 @@
 
 # 📊 GitHub Stats:
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=Nara-BIT&show_icons=true&theme=radical&hide_border=false" alt="Nara-BIT's GitHub Stats" height="180px" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nara-BIT&theme=radical&hide_border=false" alt="Nara-BIT's Streak Stats" height="180px" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nara-BIT&theme=radical&hide_border=false&layout=compact" alt="Nara-BIT's Top Languages" />
-</p>
-
-<p align="center">
   <img src="https://github-readme-stats-fast.vercel.app/api?username=Nara-BIT&show_icons=true&theme=radical&hide_border=false" alt="Nara-BIT's GitHub Stats" height="180px" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nara-BIT&theme=radical&hide_border=false" alt="Nara-BIT's Streak Stats" height="180px" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nara-BIT&layout=compact&theme=radical&hide_border=false" alt="Nara-BIT's Top Languages" height="180px" />
+<p align="left">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nara-BIT&theme=radical&hide_border=false&layout=compact" alt="Nara-BIT's Top Languages" height="180px" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=Nara-BIT&icon=0&color=0" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Nara-BIT&label=PROFILE+VIEWS&color=0e75b6&style=flat-square" alt="Visitor Count" />
 </p>
