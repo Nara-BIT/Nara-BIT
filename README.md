@@ -37,6 +37,15 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Nara-BIT&theme=radical&hide_border=false&layout=compact" alt="Nara-BIT's Top Languages" />
 </p>
 
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=Nara-BIT&show_icons=true&theme=radical&hide_border=false" alt="Nara-BIT's GitHub Stats" height="180px" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nara-BIT&theme=radical&hide_border=false" alt="Nara-BIT's Streak Stats" height="180px" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=Nara-BIT&layout=compact&theme=radical&hide_border=false" alt="Nara-BIT's Top Languages" height="180px" />
+</p>
+
 ---
 
 <p align="center">
