@@ -1,4 +1,6 @@
 # 💫 About Me:
+*Intern @ Tattvira*
+
 **Versatile Developer & Data Enthusiast** A highly motivated **Full Stack Developer** skilled in modern programming languages including C, C++, Java, and Python.
 
 * 🧠 I possess a strong foundation in **Data Structures and Algorithms (DSA)**, focusing on problem-solving and robust logic building.
